@@ -172,3 +172,7 @@ Projetos
 - [Let's Chance: Playful Probabilistic Programming for Children](https://dl.acm.org/doi/pdf/10.1145/3334480.3383071?casa_token=tooPKtW9B5IAAAAA:4C8XVB2BRi5z2y9xqD4rm75AQt3IxEx7t7E0d3CIEpe0ZLJ6li6tdbvIopS7OxEpJKoUuwL-axQ-Q0s)
 - [Applying probabilistic programming to affective computing](https://ieeexplore.ieee.org/iel7/5165369/5520654/08667687.pdf?casa_token=P0Exxv-rJ0oAAAAA:L_uz_CQuoxeLVn0rzS3sd56-OORcPQMIjZOWQdzz4pj7BQOQeRp1raMFW-mutw5nbRHOBSZJJvq3)
 - [Lumen: A software for the interactive visualization of probabilistic models together with data](https://joss.theoj.org/papers/10.21105/joss.03395.pdf)
+
+# Atendimento
+
+- [Discord](https://discord.gg/Bkk8unkK)
