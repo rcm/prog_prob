@@ -50,6 +50,7 @@ header-includes:
 - Dos outros elementos do próprio grupo
 
 # Exploração de PPLs 
+- No máximo 40 minutos, incluindo tutorial e discussão
 - Escolha de uma linguagem
 - Análise crítica
 	- Instalação e utilização
@@ -62,6 +63,7 @@ header-includes:
 - Tutorial
 
 # Short Talks
+- No máximo 20 minutos, incluíndo discussão
 ## Apresentação de um conceito
 - Apresentação de um caso de estudo, ou
 - Discussão de distribuições estatísticas, ou
