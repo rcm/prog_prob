@@ -130,7 +130,7 @@ Projetos
 29 Nov
  : Short talk: artigo
 
-13 Dez
+17 Dez
  : Short talk: artigo
 
 3 e 6 Jan
