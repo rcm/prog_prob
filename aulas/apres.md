@@ -156,6 +156,8 @@ Projetos
 - [Evans, Owain, et al. "Modeling Agents with Probabilistic Programs." URL: http://agentmodels. org (2017).](https://agentmodels.org/)
 
 # Possíveis artigos
+- [Paul-Christian Bürkner. brms: An R Package for Bayesian Multilevel Models Using Stan](https://www.jstatsoft.org/article/view/v080i01)
+- [B. Carpenter, A. Gelman, et al. STAN: A Probabilistic Programming Language](https://www.jstatsoft.org/article/view/v076i01)
 - [Deep Probabilistic Programming](https://arxiv.org/pdf/1701.03757.pdf?source=post_page---------------------------)
 - [Pyro: Deep universal probabilistic programming](https://www.jmlr.org/papers/volume20/18-403/18-403.pdf)
 - [ArviZ a unified library for exploratory analysis of Bayesian models in Python](http://www.theoj.org/joss-papers/joss.01143/10.21105.joss.01143.pdf)
@@ -163,9 +165,9 @@ Projetos
 - [Gen: A General-Purpose Probabilistic Programming System with Programmable Inference](https://dl.acm.org/doi/pdf/10.1145/3314221.3314642)
 - [TerpreT: A Probabilistic Programming Language for Program Induction](https://arxiv.org/pdf/1608.04428.pdf)
 - [The Synthesizability of Molecules Proposed by Generative Models](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.0c00174?casa_token=hnzzkAqPayUAAAAA:bNcPlG4WAPzS_kbQRVHfWgbhCOtjeNL0Y86o6SPUMQh0kOqog8sGzJS2GvDs2Qs65ZP511gabfxOSMzmYw)
-- [A Probabilistic Programming Approach to Protein Structure Superposition](https://www.biorxiv.org/content/biorxiv/early/2019/04/15/575431.full.pdf)
 
 # Possíveis artigos
+- [A Probabilistic Programming Approach to Protein Structure Superposition](https://www.biorxiv.org/content/biorxiv/early/2019/04/15/575431.full.pdf)
 - [Neurally-Guided Procedural Models: Amortized Inference for Procedural Graphics Programs using Neural Networks](https://dritchie.github.io/pdf/ngpm.pdf)
 - [Inferring signaling pathways with probabilistic programming](https://academic.oup.com/bioinformatics/article/36/Supplement_2/i822/6055920)
 - [Universal probabilistic programming offers a powerful approach to statistical phylogenetics](https://www.nature.com/articles/s42003-021-01753-7)
