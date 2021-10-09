@@ -107,5 +107,20 @@ Exploding dice
 - Na quarta-feira, o paciente é acordado sem ser entrevistado
 
 # Ficha 6
-1. Apresente uma tabela com os probabilidades dos vários casos possíveis.
-1. Sabendo que o aluno conhece todo o procedimento e que é acordado num dado dia, se a pergunta que lhe fizerem for “qual é a probabilidade do lançamento da moeda ter dado coroa?” qual deverá ser a sua resposta?
+1. Apresente uma tabela com as probabilidades dos vários casos possíveis do cenário dos passaportes ilegais;
+1. Sabendo que um passageiro foi preso, qual é a probabilidade de passaporte ser válido?
+1. No cenário da loucura psicadélica, sabendo que o aluno conhece todo o procedimento e que é acordado num dado dia, se a pergunta que lhe fizerem for “qual é a probabilidade do lançamento da moeda ter dado coroa?” qual deverá ser a sua resposta?
+
+# Ficha 7
+## Craps
+- Calcule a probabilidade de ganhar se for você a lançar os dados
+- Calcule a probabilidade de ganhar dependendo do valor inicial que saiu nos dados
+
+## Blackjack
+- Faça um programa que seja capaz  de jogar Blackjack
+- Deve ser decidir de decidir a ação mais conveniente em cada caso
+
+## Badugi
+- Faça uma função capaz de comparar duas mãos de [Badugi](https://en.wikipedia.org/wiki/Badugi)
+- Faça uma função que receba as suas cartas e as cartas que sabe que já sairam e calcule a probabilidade de melhorar a sua mão dependendo do nº de cartas que trocar
+- Faça uma função que, dadas as suas cartas e as cartas que já saíram, calcule a probabilidade da sua mão ser a melhor
