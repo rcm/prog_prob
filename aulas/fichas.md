@@ -13,7 +13,7 @@ header-includes:
 - Use o site [WebPPL](http://webppl.org) para resolver os seguintes problemas
 
 ## Ficha 1
-- Experimente as várias distribuições possíveis e use a função viz para se familiarizar com o sistema.
+- Experimente as várias distribuições possíveis e use a função *viz* para se familiarizar com o sistema.
 - [Arrays](http://docs.webppl.org/en/master/functions/arrays.html)
 - [viz](https://github.com/probmods/webppl-viz)
 - [Distribuições](http://docs.webppl.org/en/master/distributions.html)
@@ -93,16 +93,16 @@ Exploding dice
 # Ficha 6 --- Cenários
 ## Passaportes ilegais
 - 1 em cada dez mil passageiros possuem um passaporte ilegal;
-- são identificados corretamente 99 passaportes ilegais em cada 100;
+- São identificados corretamente 99 passaportes ilegais em cada 100;
 - 1 em cada mil passaportes legais são identificados como ilegais.
 
 ## Loucura psicadélica
 - São usadas drogas que colocam o paciente a dormir e provocam amnésia;
 - O paciente é informado da experiência;
-- Domingo o paciente é posto a dormir com uma droga;
+- Domingo, o paciente é posto a dormir com uma droga;
 - É atirada uma moeda ao ar:
 	- Se sair cara, ele é acordado e entrevistado só na segunda-feira
-	- Se sair colroa, é acordado e entrevistado na segunda e terça-feira
+	- Se sair coroa, é acordado e entrevistado na segunda e terça-feira
 - No final de cada entrevista, o paciente é drogado novamente
 - Na quarta-feira, o paciente é acordado sem ser entrevistado
 
