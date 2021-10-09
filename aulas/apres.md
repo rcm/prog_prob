@@ -64,6 +64,7 @@ header-includes:
 
 # Short Talks
 - No máximo 20 minutos, incluíndo discussão
+
 ## Apresentação de um conceito
 - Apresentação de um caso de estudo, ou
 - Discussão de distribuições estatísticas, ou
