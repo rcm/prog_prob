@@ -153,7 +153,7 @@ Projetos
 - [T. A. Le, F. Wood, Essentials of Bayesian Inference](https://www.cs.ubc.ca/~fwood/CS532W-539W/notes/essentials-of-bayesian-inference.pdf)
 
 # Outros recursos
-- [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+- [Probabilistic Programming & Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 - Martin, Osvaldo. Bayesian analysis with Python: introduction to statistical modeling and probabilistic programming using PyMC3 and ArviZ. Packt Publishing Ltd, 2018
 - [Evans, Owain, et al. "Modeling Agents with Probabilistic Programs." URL: http://agentmodels. org (2017).](https://agentmodels.org/)
 
