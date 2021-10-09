@@ -153,6 +153,7 @@ Projetos
 - [T. A. Le, F. Wood, Essentials of Bayesian Inference](https://www.cs.ubc.ca/~fwood/CS532W-539W/notes/essentials-of-bayesian-inference.pdf)
 
 # Outros recursos
+- [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 - Martin, Osvaldo. Bayesian analysis with Python: introduction to statistical modeling and probabilistic programming using PyMC3 and ArviZ. Packt Publishing Ltd, 2018
 - [Evans, Owain, et al. "Modeling Agents with Probabilistic Programs." URL: http://agentmodels. org (2017).](https://agentmodels.org/)
 
@@ -177,6 +178,11 @@ Projetos
 - [Let's Chance: Playful Probabilistic Programming for Children](https://dl.acm.org/doi/pdf/10.1145/3334480.3383071?casa_token=tooPKtW9B5IAAAAA:4C8XVB2BRi5z2y9xqD4rm75AQt3IxEx7t7E0d3CIEpe0ZLJ6li6tdbvIopS7OxEpJKoUuwL-axQ-Q0s)
 - [Applying probabilistic programming to affective computing](https://ieeexplore.ieee.org/iel7/5165369/5520654/08667687.pdf?casa_token=P0Exxv-rJ0oAAAAA:L_uz_CQuoxeLVn0rzS3sd56-OORcPQMIjZOWQdzz4pj7BQOQeRp1raMFW-mutw5nbRHOBSZJJvq3)
 - [Lumen: A software for the interactive visualization of probabilistic models together with data](https://joss.theoj.org/papers/10.21105/joss.03395.pdf)
+
+# Inscrição
+
+- [Escolha da PPL](https://docs.google.com/forms/d/e/1FAIpQLSf2-NZltme4MItEKjf7bzmIbRE42Vxw7L2LvjJw7cqhJXz9fA/viewform?usp=sf_link)
+- [Inscrição no grupo e escolha da primeira Short talk](https://docs.google.com/forms/d/e/1FAIpQLSfj2TEIEMZOlcTwfi6FkDsm5u0PlUsDc9KiOTlwNhJQ0u-Tcw/viewform?usp=sf_link)
 
 # Atendimento
 
