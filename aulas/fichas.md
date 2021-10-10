@@ -34,6 +34,21 @@ header-includes:
 1. Crie um histograma correspondente ao lançamento de um dado;
 1. Modifique o programa anterior para lançar mais do que um dado.
 
+# RPGs
+## Sistema Roll & Keep
+Trait
+ : valor numérico que representa características
+
+Skill
+ : valor numérico que representa aptidões
+
+## Sistema do *World of Darkness*
+Atributos
+ : valor numérico que representa características
+
+Disciplines
+ : valor numérico que representa aptidões
+
 # RPGs e dados
 ## **X**d**Y**
 X
@@ -42,29 +57,46 @@ X
 Y
  : número de faces de cada dado
 
+- Somam-se os valores dos dados
+
 ## Sistema Roll & Keep: **X**k**Y**
 X
- : número de dados D10 *rolled*
+ : número de dados D10 *rolled*.
+ Corresponde a **Trait+Skill**
 
 Y
- : número de dados D10 *kept*
+ : número de dados D10 *kept*.
+ Corresponde a **Trait**
 
 Exploding dice
  : cada 10 implica que esse dado é rolado novamente e se soma 10 ao total
 
-## Sistema do *World of Darkness*
-- Lançam-se **N** dados D10
+- Somam-se os **Y** valores mais altos
+
+## Sistema do *WoD*
+- Lançam-se **Atributo+Discipline** dados D10
 - Contam-se os dados cujo valor é maior ou igual ao *target number* **TN**
 - Cada **1** é um **fracasso** que subtrai ao número de **sucessos**
 - O valor total pode ser negativo, neste caso, é um **Botch**
 
+# RPGs: Contested Rolls
+## Roll & Keep
+- Quem rolar o valor maior é vencedor
+
+## WoD
+- Cada oponente lança os dados *vs* um **TN**
+- Quem tiver mais sucessos ganha
+- O venceder pode ter que ganhar por uma certa margem
+
 # Ficha 2
 1. Escreva uma função que receba o número de dados e o número de faces de cada dado e imprima o histograma relativo a 10,000 lançamentos. Represente o histograma para os seguintes valores: 5d2; 2d5; 4d6; 2d100; 100d2;
 1. Crie uma nova função onde os dados repetidos são removidos;
-1. Crie uma função para o sistema *Roll & Keep*. Represente o histograma para 1k1; 3k1; 5k1; 7k2;
-1. Crie uma função para o sistema *World of Darkness*. Represente o histograma do nº de sucessos para vários nºs de dados e *TN*;
+1. Crie uma função para o sistema *Roll & Keep*. Represente o histograma para 1k1; 3k1; 5k1; 7k2; 9k4
+1. Crie uma função para o sistema *WoD*. Represente o histograma do nº de sucessos para vários nºs de dados e *TN*;
 1. Represente gráficamente o nº de sucessos para os vários **TN** usando um *heatmap* quando se lançam 10 dados;
-1. Represente um *heatmap* com o nº de dados *vs* o  nº de sucessos para o **TN** de 9.
+1. Represente um *heatmap* com o nº de dados *vs* o  nº de sucessos para o **TN** de 9;
+1. Represente graficamente *contested rolls* de *Roll & Keep*; veja o impacto dos *Traits* e *Skills*;
+1. Represente graficamente *contested rolls* de *WoD*; veja o impacto no nº de dados.
 
 # Ficha 3
 1. Assuma que 1% da população tem COVID. Dos que têm COVID, 70% tem um teste rápido positivo mas  10% das pessoas que não têm COVID tem um teste rápido positivo. Desenhe o modelo gráfico e imprima o histograma correspondente;
