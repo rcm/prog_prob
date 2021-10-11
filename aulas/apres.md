@@ -182,7 +182,7 @@ Projetos
 # Inscrição
 
 - [Escolha da PPL](https://docs.google.com/forms/d/e/1FAIpQLSf2-NZltme4MItEKjf7bzmIbRE42Vxw7L2LvjJw7cqhJXz9fA/viewform?usp=sf_link)
-- [Inscrição no grupo e escolha da primeira Short talk](https://docs.google.com/forms/d/e/1FAIpQLSfj2TEIEMZOlcTwfi6FkDsm5u0PlUsDc9KiOTlwNhJQ0u-Tcw/viewform?usp=sf_link)
+- [Inscrição no grupo e escolha da primeira Short talk](https://docs.google.com/forms/d/e/1FAIpQLSfj2TEIEMZOlcTwfi6FkDsm5u0PlUsDc9KiOTlwNhJQ0u-Tcw/viewform?usp=sf_link). Prazo: 22 Out
 
 # Atendimento
 
