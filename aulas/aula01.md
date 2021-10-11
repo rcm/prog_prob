@@ -1,5 +1,3 @@
-*Click here* to edit me!
-
 ~~~~
 var f = function() {
   return 2
@@ -47,4 +45,19 @@ var pred = function(x) { return x >= 2 && x <= 7}
 // Função identidade
 var id = function(x) {return x}
 filter(pred, mapN(id, 100))
+~~~~
+
+~~~~
+// Função identidade
+var id = function(x) {return x}
+// Função sucessor
+var succ = function(x) {return x + 1}
+
+// Predicado que verifica se um número é par
+var par = function(x) {
+  return x % 2 == 0
+}
+
+// Dá todos os números pares até 100
+filter(par, mapN(succ, 100))
 ~~~~
