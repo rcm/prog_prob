@@ -7,6 +7,7 @@ header-includes:
   - \hypersetup{colorlinks=true,urlcolor = blue, linkcolor=cyan,pdfborderstyle={/S/U/W 1}}
 ---
 
+
 # Objetivos
 - Programação Probabilística (PP)
 - Probabilistic Programming Languages (PPL)
