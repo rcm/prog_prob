@@ -1,2 +1,4 @@
-# prob_prog
-Programação Probabilística
+# Programação Probabilística
+
+- Adicionei o ficheiro aula01.md com a aula do dia 11 de Out
+- Passarei a criar um ficheiro deste género para cada aula
