@@ -32,7 +32,7 @@ Maria Inês Machado Correia Brioso Dias
  : ProbLog
  
 Ricardo da Silva Correia
- : Figaro
+ : Hakaru
 
 João Pedro Sá Gomes
- : Todas as opções já tinham sido escolhidas
+ : Bayesloop
