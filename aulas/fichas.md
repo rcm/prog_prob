@@ -103,17 +103,18 @@ Exploding dice
 1. Assuma agora que existe o teste B (em oposição ao teste A referido acima) em que 90% das pessoas com COVID tem um teste positivo enquanto que só 1% das pessoas sem COVID tem um teste positivo. Assuma também que das pessoas que ligam para o Saúde24, 80% das pessoas fizeram o teste A e as restantes fizeram o teste B. Desenhe o modelo gráfico e imprima o histograma correspondente.
 
 # Ficha 4
-1. Calcule a probabilidade de ter COVID se tiver um teste positivo para a pergunta 1 da ficha anterior;
-2. Se tiver um teste positivo para a pergunta 2 da ficha anterior, calcule:
+1. Calcule p(COVID) com um teste positivo para a pergunta 1 da ficha 3;
+1. Se tiver um teste positivo para a pergunta 2 da ficha 3, calcule:
 	1. A probabilidade de ter COVID;
 	1. A probabilidade de ter feito o teste A;
-	1. A probabilidade de ter feito o teste A se tiver o teste positivo e tiver COVID;
-3. Se tiver 3 moedas, uma normal com 50% de probabilidades de sair cara (N), uma com 70% de probabilidades de sair cara (H)  e outra com 70% de probabilidades de sair coroa (T), qual é a probabilidade de ter escolhido cada uma das moedas sabendo que:
+	1. A probabilidade de ter feito o teste A com teste positivo e COVID;
+1. Se tiver 3 moedas, uma normal com 50% de probabilidades de sair cara (N), uma com 70% de probabilidades de sair cara (H)  e outra com 70% de probabilidades de sair coroa (T), qual é a probabilidade de ter escolhido cada uma das moedas sabendo que:
 	1. Lançou uma vez ao ar e saiu cara;
-	1. Lançou a moeda duas vezes ao ar e saiu sempre cara;
 	1. Lançou a moeda três vezes ao ar e saiu sempre cara;
 	1. Lançou a moeda três vezes ao ar e saiu cara duas vezes;
 	1. Como mudam as probabilidades das 3 alíneas anteriores caso a probabilidade de escolher a moeda N for de 60%?
+1. Estime a probabilidade da moeda se tiver uma lista de observações;
+1. E se tiver uma contagem **caras**/**lançamentos**?
 
 # Ficha 5
 4. Escreva uma função que sabendo que lançou X dados todos com o mesmo número de faces (2, 4, 6, 8, 10, 20 ou 100) e que a soma foi de S, qual é a probabilidade correspondente a cada tipo de dado?
