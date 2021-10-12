@@ -32,4 +32,7 @@ Maria Inês Machado Correia Brioso Dias
  : ProbLog
  
 Ricardo da Silva Correia
- : Analytica não parece ser uma PPL
+ : Figaro
+
+João Pedro Sá Gomes
+ : Todas as opções já tinham sido escolhidas
