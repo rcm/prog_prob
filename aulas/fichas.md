@@ -7,7 +7,6 @@ header-includes:
   - \hypersetup{colorlinks=true,urlcolor = blue, linkcolor=cyan,pdfborderstyle={/S/U/W 1}}
 ---
 
-
 # Instruções
 ## Site
 - Use o site [WebPPL](http://webppl.org) para resolver os seguintes problemas
@@ -108,13 +107,13 @@ Exploding dice
 	1. A probabilidade de ter COVID;
 	1. A probabilidade de ter feito o teste A;
 	1. A probabilidade de ter feito o teste A com teste positivo e COVID;
+1. Estime a probabilidade da moeda se tiver uma lista de observações;
+1. E se tiver uma contagem **caras**/**lançamentos**?
 1. Se tiver 3 moedas, uma normal com 50% de probabilidades de sair cara (N), uma com 70% de probabilidades de sair cara (H)  e outra com 70% de probabilidades de sair coroa (T), qual é a probabilidade de ter escolhido cada uma das moedas sabendo que:
 	1. Lançou uma vez ao ar e saiu cara;
 	1. Lançou a moeda três vezes ao ar e saiu sempre cara;
 	1. Lançou a moeda três vezes ao ar e saiu cara duas vezes;
 	1. Como mudam as probabilidades das 3 alíneas anteriores caso a probabilidade de escolher a moeda N for de 60%?
-1. Estime a probabilidade da moeda se tiver uma lista de observações;
-1. E se tiver uma contagem **caras**/**lançamentos**?
 
 # Ficha 5
 4. Escreva uma função que sabendo que lançou X dados todos com o mesmo número de faces (2, 4, 6, 8, 10, 20 ou 100) e que a soma foi de S, qual é a probabilidade correspondente a cada tipo de dado?
