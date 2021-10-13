@@ -54,4 +54,5 @@ Tema
 
 - Tomás Esperança Ferreira
 
-Tema: não escolheram distribuições estatísticas ou métodos de inferência
+Tema
+ : não escolheram distribuições estatísticas ou métodos de inferência
