@@ -169,6 +169,7 @@ Projetos
 - [Gen: A General-Purpose Probabilistic Programming System with Programmable Inference](https://dl.acm.org/doi/pdf/10.1145/3314221.3314642)
 - [TerpreT: A Probabilistic Programming Language for Program Induction](https://arxiv.org/pdf/1608.04428.pdf)
 - [The Synthesizability of Molecules Proposed by Generative Models](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.0c00174?casa_token=hnzzkAqPayUAAAAA:bNcPlG4WAPzS_kbQRVHfWgbhCOtjeNL0Y86o6SPUMQh0kOqog8sGzJS2GvDs2Qs65ZP511gabfxOSMzmYw)
+- [Planning as Inference in Epidemiological Dynamics Models](https://arxiv.org/pdf/2003.13221.pdf)
 
 # Possíveis artigos
 - [A Probabilistic Programming Approach to Protein Structure Superposition](https://www.biorxiv.org/content/biorxiv/early/2019/04/15/575431.full.pdf)
