@@ -1,6 +1,6 @@
 ---
 author:
-- Atribuição das PPLs
+- Atribuição
 
 theme: Boadilla
 title: Programação Probabilística
@@ -36,3 +36,22 @@ Ricardo da Silva Correia
 
 João Pedro Sá Gomes
  : Bayesloop
+
+Catarina Assis Quintela Madaleno
+ : Lea
+
+# Atribuição das Short talks
+## Grupo 1
+- Irving Leander Reascos Valencia
+
+- Rodrigo da Silva Gomes Peres Coelho
+
+Tema
+ : Distribuição de Poisson
+
+## Grupo 2
+- Maria João Barroso Portela
+
+- Tomás Esperança Ferreira
+
+Tema: não escolheram distribuições estatísticas ou métodos de inferência
