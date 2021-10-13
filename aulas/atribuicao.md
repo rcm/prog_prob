@@ -41,6 +41,8 @@ Catarina Assis Quintela Madaleno
  : Lea
 
 # Atribuição das Short talks
+::: columns
+:::: column
 ## Grupo 1
 - Irving Leander Reascos Valencia
 
@@ -49,6 +51,10 @@ Catarina Assis Quintela Madaleno
 Tema
  : Distribuição de Poisson
 
+::::
+
+:::: column
+
 ## Grupo 2
 - Maria João Barroso Portela
 
@@ -56,3 +62,6 @@ Tema
 
 Tema
  : não escolheram distribuições estatísticas ou métodos de inferência
+
+::::
+:::

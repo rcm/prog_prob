@@ -157,6 +157,7 @@ Projetos
 - [Probabilistic Programming & Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 - Martin, Osvaldo. Bayesian analysis with Python: introduction to statistical modeling and probabilistic programming using PyMC3 and ArviZ. Packt Publishing Ltd, 2018
 - [Evans, Owain, et al. "Modeling Agents with Probabilistic Programs." URL: http://agentmodels. org (2017).](https://agentmodels.org/)
+- [Compiling Probabilistic Programs with Daphne (by Christian Weilbach)](https://www.youtube.com/watch?v=U-BzDXTTRCo)
 
 # Possíveis artigos
 - [Paul-Christian Bürkner. brms: An R Package for Bayesian Multilevel Models Using Stan](https://www.jstatsoft.org/article/view/v080i01)
