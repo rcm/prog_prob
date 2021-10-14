@@ -51,6 +51,11 @@ Catarina Assis Quintela Madaleno
 Tema
  : Distribuição de Poisson
 
+## Grupo 3
+- Ricardo da Silva Correia
+- Maria Inês Machado Correia Brioso Dias
+
+Tema: Distribuições Binomial e Beta
 ::::
 
 :::: column
@@ -62,6 +67,5 @@ Tema
 
 Tema
  : não escolheram distribuições estatísticas ou métodos de inferência
-
 ::::
 :::
