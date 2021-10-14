@@ -33,7 +33,7 @@ header-includes:
 1. Crie um histograma correspondente ao lançamento de um dado;
 1. Modifique o programa anterior para lançar mais do que um dado;
 1. Faça uma função para sortear uma carta;
-1. Faça uma função que sorteie uma mão de *n* cartas;
+1. Faça uma função que sorteie uma mão de *n* cartas.
 
 # RPGs
 ## Sistema Roll & Keep
