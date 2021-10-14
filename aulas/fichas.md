@@ -21,7 +21,7 @@ header-includes:
 - [Inferência](http://docs.webppl.org/en/master/inference/index.html)
 
 # Ficha 1
-1. Escreva uma função que lance uma moeda ao ar *n* vezes e:
+1. Escreva funções que lancem uma moeda ao ar *n* vezes e:
 	1. Conte quantas vezes saiu cara;
 	1. Verifique se todos os lançamentos foram coroa;
 	1. Verifique se nem todos os lançamentos tiveram o mesmo resultado;
