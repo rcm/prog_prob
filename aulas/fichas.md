@@ -21,10 +21,10 @@ header-includes:
 - [Inferência](http://docs.webppl.org/en/master/inference/index.html)
 
 # Ficha 1
-1. Crie uma lista com 10 valores aleatórios do tipo *verdadeiro* ou *falso*;
-	1. Conte quantos dos valores são verdadeiros;
-	1. Verifique se todos os valores são verdadeiros;
-	1. Verifique se algum dos valores é verdadeiro;
+1. Escreva uma função que lance uma moeda ao ar *n* vezes e:
+	1. Conte quantas vezes saiu cara;
+	1. Verifique se todos os lançamentos foram coroa;
+	1. Verifique se nem todos os lançamentos tiveram o mesmo resultado;
 1. Escreva uma função que lance 1000 vezes uma moeda ao ar, use a função **repeat**, e crie um histograma com as frequências;
 1. Modifique a função anterior para receber a probabilidade de sair cara e experimente com vários casos possíveis;
 1. Modifique a função anterior para lançar 5 moedas de cada vez e criar o histograma com o número de caras;
