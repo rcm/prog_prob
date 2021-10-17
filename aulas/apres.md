@@ -189,4 +189,4 @@ Projetos
 
 # Atendimento
 
-- [Discord](https://discord.gg/Bkk8unkK)
+- [Discord](https://discord.gg/xBANkCy7Zk)
