@@ -158,6 +158,7 @@ Projetos
 - Martin, Osvaldo. Bayesian analysis with Python: introduction to statistical modeling and probabilistic programming using PyMC3 and ArviZ. Packt Publishing Ltd, 2018
 - [Evans, Owain, et al. "Modeling Agents with Probabilistic Programs." URL: http://agentmodels. org (2017).](https://agentmodels.org/)
 - [Compiling Probabilistic Programs with Daphne (by Christian Weilbach)](https://www.youtube.com/watch?v=U-BzDXTTRCo)
+- [Deep Probabilistic Programming Languages: A Qualitative Study](https://arxiv.org/pdf/1804.06458.pdf)
 
 # Possíveis artigos
 - [Paul-Christian Bürkner. brms: An R Package for Bayesian Multilevel Models Using Stan](https://www.jstatsoft.org/article/view/v080i01)
