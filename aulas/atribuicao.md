@@ -42,20 +42,20 @@ Catarina Assis Quintela Madaleno
 
 # Atribuição das Short talks
 
---------------------------------------------------------------------------------------------------
-   Elemento                                           Elemento                          Tema
---------------------------------   -----------------------------------------     ------------------
-Irving Leander Reascos Valencia     Rodrigo da Silva Gomes Peres Coelho           Gamma e outra
+-----------------------------------------------------------------
+   Elemento           Elemento                 Tema
+---------------   -------------------     -----------------------
+Irving                   Rodrigo           Gamma e outra
 
-Ricardo da Silva Correia            Maria Inês Machado Correia Brioso Dias        Binomial e Beta
+Ricardo                Maria Inês          Binomial e Beta
 
-Alexandre de Jesus Sousa e Silva    João Pedro Sá Gomes                           Exponencial e Normal
+Alexandre             João Pedro           Exponencial e Normal
 
-Maria João Barroso Portela          Tomás Esperança Ferreira                      Enumeração e Rejeição
+Maria João              Tomás              Enumeração e Rejeição
 
-Catarina Assis Quintela Madaleno    Pedro Daniel Lopes Mendes                     Exponencial e Poisson
+Catarina             Pedro Daniel          Exponencial e Poisson
 
------------------------------------------------------------------------------------------
+-----------------------------------------------------------------
 
 Table: Primeira Short Talk
 
