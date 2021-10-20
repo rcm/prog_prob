@@ -41,43 +41,21 @@ Catarina Assis Quintela Madaleno
  : Lea
 
 # Atribuição das Short talks
-::: columns
-:::: column
-## Grupo 1
-- Irving Leander Reascos Valencia
-- Rodrigo da Silva Gomes Peres Coelho
 
-Tema
- : Distribuição de Poisson e Gama
+--------------------------------------------------------------------------------------------------
+   Elemento                                           Elemento                          Tema
+--------------------------------   -----------------------------------------     ------------------
+Irving Leander Reascos Valencia     Rodrigo da Silva Gomes Peres Coelho           Gamma e outra
 
-## Grupo 3
-- Ricardo da Silva Correia
-- Maria Inês Machado Correia Brioso Dias
+Ricardo da Silva Correia            Maria Inês Machado Correia Brioso Dias        Binomial e Beta
 
-Tema: Distribuições Binomial e Beta
+Alexandre de Jesus Sousa e Silva    João Pedro Sá Gomes                           Exponencial e Normal
 
-## Grupo 5
-- Alexandre de Jesus Sousa e Silva
-- João Pedro Sá Gomes
+Maria João Barroso Portela          Tomás Esperança Ferreira                      Enumeração e Rejeição
 
-Tema
- : Distribuição exponencial e normal
-::::
+Catarina Assis Quintela Madaleno    Pedro Daniel Lopes Mendes                     Exponencial e Poisson
 
-:::: column
+-----------------------------------------------------------------------------------------
 
-## Grupo 2
-- Maria João Barroso Portela
-- Tomás Esperança Ferreira
+Table: Primeira Short Talk
 
-Tema
- : Métodos de Inferência: Enumeração e rejeição
-
-## Grupo 4
-- Catarina Assis Quintela Madaleno
-- Pedro Daniel Lopes Mendes
-
-Tema
- : Distribuições Exponencial e Poisson
-::::
-:::
