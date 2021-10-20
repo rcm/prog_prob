@@ -23,7 +23,7 @@ Tomás Ferreira
  : Edward
  
 Rodrigo da Silva Gomes Peres Coelho
- : Stan
+ : Pomegranate
  
 Márcio Eduardo Lima Mano
  : PyMC4
@@ -32,7 +32,7 @@ Maria Inês Machado Correia Brioso Dias
  : ProbLog
  
 Ricardo da Silva Correia
- : Hakaru
+ : Pyro
 
 João Pedro Sá Gomes
  : Bayesloop
@@ -45,27 +45,39 @@ Catarina Assis Quintela Madaleno
 :::: column
 ## Grupo 1
 - Irving Leander Reascos Valencia
-
 - Rodrigo da Silva Gomes Peres Coelho
 
 Tema
- : Distribuição de Poisson
+ : Distribuição de Poisson e Gama
 
 ## Grupo 3
 - Ricardo da Silva Correia
 - Maria Inês Machado Correia Brioso Dias
 
 Tema: Distribuições Binomial e Beta
+
+## Grupo 5
+- Alexandre de Jesus Sousa e Silva
+- João Pedro Sá Gomes
+
+Tema
+ : Distribuição exponencial e normal
 ::::
 
 :::: column
 
 ## Grupo 2
 - Maria João Barroso Portela
-
 - Tomás Esperança Ferreira
 
 Tema
- : não escolheram distribuições estatísticas ou métodos de inferência
+ : Métodos de Inferência: Enumeração e rejeição
+
+## Grupo 4
+- Catarina Assis Quintela Madaleno
+- Pedro Daniel Lopes Mendes
+
+Tema
+ : Distribuições Exponencial e Poisson
 ::::
 :::
