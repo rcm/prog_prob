@@ -40,12 +40,15 @@ João Pedro Sá Gomes
 Catarina Assis Quintela Madaleno
  : Lea
 
+Alexandre de Jesus Sousa e Silva
+ : Anglican?
+
 # Atribuição das Short talks
 
 -----------------------------------------------------------------
    Elemento           Elemento                 Tema
 ---------------   -------------------     -----------------------
-Irving                   Rodrigo           Gamma e outra
+Irving                   Rodrigo           Gamma e Poisson
 
 Ricardo                Maria Inês          Binomial e Beta
 
