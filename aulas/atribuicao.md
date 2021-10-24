@@ -41,7 +41,10 @@ Catarina Assis Quintela Madaleno
  : Lea
 
 Alexandre de Jesus Sousa e Silva
- : Anglican?
+ : Anglican ou Venture
+
+José Diogo Macedo Dourado
+ : Anglican ou Prism
 
 # Atribuição das Short talks
 
@@ -57,6 +60,10 @@ Alexandre             João Pedro           Exponencial e Normal
 Maria João              Tomás              Enumeração e Rejeição
 
 Catarina             Pedro Daniel          Exponencial e Poisson
+
+Diogo Manuel        João Gustavo           Dirichlet
+
+Márcio Eduardo      José Diogo             Escolham um dos métodos de inferência no manual do WebPPL menos rejection e enumerate
 
 -----------------------------------------------------------------
 
