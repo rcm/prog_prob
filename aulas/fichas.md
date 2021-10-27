@@ -100,10 +100,10 @@ Exploding dice
 1. Represente graficamente *contested rolls* de *WoD*; veja o impacto no nº de dados.
 
 # Ficha 3
-1. Assuma que 1% da população tem COVID. Dos que têm COVID, 70% tem um teste rápido positivo mas  10% das pessoas que não têm COVID tem um teste rápido positivo. Desenhe o modelo gráfico e imprima o histograma correspondente;
-1. Assuma agora que existe o teste B (em oposição ao teste A referido acima) em que 90% das pessoas com COVID tem um teste positivo enquanto que só 1% das pessoas sem COVID tem um teste positivo. Assuma também que das pessoas que ligam para o Saúde24, 80% das pessoas fizeram o teste A e as restantes fizeram o teste B. Desenhe o modelo gráfico e imprima o histograma correspondente.
+- Assuma que 1% da população tem COVID. Dos que têm COVID, 70% tem um teste rápido positivo mas  10% das pessoas que não têm COVID tem um teste rápido positivo. Desenhe o modelo gráfico e imprima o histograma correspondente;
+- Assuma agora que existe o teste B (em oposição ao teste A referido acima) em que 90% das pessoas com COVID tem um teste positivo enquanto que só 1% das pessoas sem COVID tem um teste positivo. Assuma também que das pessoas que ligam para o Saúde24, 80% das pessoas fizeram o teste A e as restantes fizeram o teste B. Desenhe o modelo gráfico e imprima o histograma correspondente.
 
-# Ficha 4
+# Ficha 3
 1. Calcule p(COVID) com um teste positivo para a pergunta 1 da ficha 3;
 1. Se tiver um teste positivo para a pergunta 2 da ficha 3, calcule:
 	1. A probabilidade de ter COVID;
@@ -117,14 +117,14 @@ Exploding dice
 	1. Lançou a moeda três vezes ao ar e saiu cara duas vezes;
 	1. Como mudam as probabilidades das 3 alíneas anteriores caso a probabilidade de escolher a moeda N for de 60%?
 
-# Ficha 5
+# Ficha 4
 4. Escreva uma função que sabendo que lançou X dados todos com o mesmo número de faces (2, 4, 6, 8, 10, 20 ou 100) e que a soma foi de S, qual é a probabilidade correspondente a cada tipo de dado?
 1. Modifique a solução anterior para o caso de ter uma lista de lançamentos;
 1. Escreva uma função que escolha aleatoriamente uma carta de um baralho;
 1. Modifique o programa anterior para extrair várias cartas de um baralho sem reposição;
 1. Crie um programa que permita calcular a probabilidade de cada uma das combinações do Blackjack.
 
-# Ficha 6 --- Cenários
+# Ficha 5 --- Cenários
 ## Passaportes ilegais
 - 1 em cada dez mil passageiros possuem um passaporte ilegal;
 - São identificados corretamente 99 passaportes ilegais em cada 100;
