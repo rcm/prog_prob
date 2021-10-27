@@ -76,6 +76,27 @@ header-includes:
 1. Apresentação do artigo
 1. Discussão
 
+# Short Talk I
+- Apresentação/tutorial sobre uma feature no WebPPL
+- Vantagens
+- Desvantagens
+- Caracterização
+- Criação de um manual de utilização/tutorial completo
+
+# Short Talk I
+## Distribuições estatísticas
+- Caracterização
+- Caracterização dos parâmetros em WebPPL e sua influência
+- Em que casos fazem sentido utilizá-las
+- Comparação com distribuições semelhantes
+- Apresentação de exemplos em WebPPL
+
+## Métodos de inferência
+- Descrição do funcionamento
+- Caracterização dos parâmetros em WebPPL e sua influência
+- Comparação com outros métodos parecidos
+- Exemplos de utilização em WebPPL onde faça sentido utilizá-los
+
 # Projetos
 ## Exemplos
 - Pineapple Open Face Chinese Poker
