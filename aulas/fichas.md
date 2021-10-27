@@ -141,12 +141,12 @@ Exploding dice
 - No final de cada entrevista, o paciente é drogado novamente
 - Na quarta-feira, o paciente é acordado sem ser entrevistado
 
-# Ficha 6
+# Ficha 5
 1. Apresente uma tabela com as probabilidades dos vários casos possíveis do cenário dos passaportes ilegais;
 1. Sabendo que um passageiro foi preso, qual é a probabilidade de passaporte ser válido?
 1. No cenário da loucura psicadélica, sabendo que o aluno conhece todo o procedimento e que é acordado num dado dia, se a pergunta que lhe fizerem for “qual é a probabilidade do lançamento da moeda ter dado coroa?” qual deverá ser a sua resposta?
 
-# Ficha 7
+# Ficha 6
 ## Craps
 - Calcule a probabilidade de ganhar se for você a lançar os dados
 - Calcule a probabilidade de ganhar dependendo do valor inicial que saiu nos dados
