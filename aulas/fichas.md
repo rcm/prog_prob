@@ -105,12 +105,12 @@ Exploding dice
 3. Continua no próximo slide
 
 # Ficha 3
-3. Calcule p(COVID) com um teste positivo para a pergunta 1 da ficha 3;
+3. Calcule p(COVID|positivo) para a pergunta 1 da ficha 3;
 1. Se tiver um teste positivo para a pergunta 2 da ficha 3, calcule:
 	1. A probabilidade de ter COVID;
 	1. A probabilidade de ter feito o teste A;
 	1. A probabilidade de ter feito o teste A com teste positivo e COVID;
-1. Estime a probabilidade da moeda se tiver uma lista de observações;
+1. Estime a probabilidade da moeda sair cara se tiver uma lista de observações;
 1. E se tiver uma contagem **caras**/**lançamentos**?
 1. Se tiver 3 moedas, uma normal com 50% de probabilidades de sair cara (N), uma com 70% de probabilidades de sair cara (H)  e outra com 70% de probabilidades de sair coroa (T), qual é a probabilidade de ter escolhido cada uma das moedas sabendo que:
 	1. Lançou uma vez ao ar e saiu cara;
