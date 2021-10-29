@@ -102,30 +102,29 @@ Exploding dice
 # Ficha 3
 1. Assuma que 1% da população tem COVID. Dos que têm COVID, 70% tem um teste rápido positivo mas  10% das pessoas que não têm COVID tem um teste rápido positivo. Imprima o histograma  correspondente aos positivos;
 2. Assuma agora que existe o teste B (em oposição ao teste A referido acima) em que 90% das pessoas com COVID tem um teste positivo enquanto que só 1% das pessoas sem COVID tem um teste positivo. Assuma também que das pessoas que ligam para o Saúde24, 80% das pessoas fizeram o teste A e as restantes fizeram o teste B. Imprima o histograma correspondente aos positivos.
-3. Continua no próximo slide
-
-# Ficha 3
 3. Calcule p(COVID|positivo) para a pergunta 1 da ficha 3;
-1. Se tiver um teste positivo para a pergunta 2 da ficha 3, calcule:
+4. Se tiver um teste positivo para a pergunta 2 da ficha 3, calcule:
 	1. A probabilidade de ter COVID;
 	1. A probabilidade de ter feito o teste A;
 	1. A probabilidade de ter feito o teste A com teste positivo e COVID;
+
+# Ficha 4
 1. Estime a probabilidade da moeda sair cara se tiver uma lista de observações;
 1. E se tiver uma contagem **caras**/**lançamentos**?
-1. Se tiver 3 moedas, uma normal com 50% de probabilidades de sair cara (N), uma com 70% de probabilidades de sair cara (H)  e outra com 70% de probabilidades de sair coroa (T), qual é a probabilidade de ter escolhido cada uma das moedas sabendo que:
+1. Se tiver 3 moedas, uma normal com 50% de probabilidades de sair cara (N), uma com 70% de probabilidades de sair cara (H)  e outra com 70% de probabilidades de sair coroa (T), e sabendo à partida que pode ter escolhido qualquer dessas moedas, qual é a probabilidade de ter escolhido cada uma das moedas sabendo que:
 	1. Lançou uma vez ao ar e saiu cara;
 	1. Lançou a moeda três vezes ao ar e saiu sempre cara;
 	1. Lançou a moeda três vezes ao ar e saiu cara duas vezes;
 	1. Como mudam as probabilidades das 3 alíneas anteriores caso a probabilidade de escolher a moeda N for de 60%?
 
-# Ficha 4
+# Ficha 5
 4. Escreva uma função que sabendo que lançou X dados todos com o mesmo número de faces (2, 4, 6, 8, 10, 20 ou 100) e que a soma foi de S, qual é a probabilidade correspondente a cada tipo de dado?
 1. Modifique a solução anterior para o caso de ter uma lista de lançamentos;
 1. Escreva uma função que escolha aleatoriamente uma carta de um baralho;
 1. Modifique o programa anterior para extrair várias cartas de um baralho sem reposição;
 1. Crie um programa que permita calcular a probabilidade de cada uma das combinações do Blackjack.
 
-# Ficha 5 --- Cenários
+# Ficha 6 --- Cenários
 ## Passaportes ilegais
 - 1 em cada dez mil passageiros possuem um passaporte ilegal;
 - São identificados corretamente 99 passaportes ilegais em cada 100;
@@ -141,12 +140,12 @@ Exploding dice
 - No final de cada entrevista, o paciente é drogado novamente
 - Na quarta-feira, o paciente é acordado sem ser entrevistado
 
-# Ficha 5
+# Ficha 6
 1. Apresente uma tabela com as probabilidades dos vários casos possíveis do cenário dos passaportes ilegais;
 1. Sabendo que um passageiro foi preso, qual é a probabilidade de passaporte ser válido?
 1. No cenário da loucura psicadélica, sabendo que o aluno conhece todo o procedimento e que é acordado num dado dia, se a pergunta que lhe fizerem for “qual é a probabilidade do lançamento da moeda ter dado coroa?” qual deverá ser a sua resposta?
 
-# Ficha 6
+# Ficha 7
 ## Craps
 - Calcule a probabilidade de ganhar se for você a lançar os dados
 - Calcule a probabilidade de ganhar dependendo do valor inicial que saiu nos dados
