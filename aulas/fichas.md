@@ -100,8 +100,8 @@ Exploding dice
 1. Represente graficamente *contested rolls* de *WoD*; veja o impacto no nº de dados.
 
 # Ficha 3
-1. Assuma que 1% da população tem COVID. Dos que têm COVID, 70% tem um teste rápido positivo mas  10% das pessoas que não têm COVID tem um teste rápido positivo. Desenhe o modelo gráfico e imprima o histograma correspondente;
-2. Assuma agora que existe o teste B (em oposição ao teste A referido acima) em que 90% das pessoas com COVID tem um teste positivo enquanto que só 1% das pessoas sem COVID tem um teste positivo. Assuma também que das pessoas que ligam para o Saúde24, 80% das pessoas fizeram o teste A e as restantes fizeram o teste B. Desenhe o modelo gráfico e imprima o histograma correspondente.
+1. Assuma que 1% da população tem COVID. Dos que têm COVID, 70% tem um teste rápido positivo mas  10% das pessoas que não têm COVID tem um teste rápido positivo. Imprima o histograma  correspondente aos positivos;
+2. Assuma agora que existe o teste B (em oposição ao teste A referido acima) em que 90% das pessoas com COVID tem um teste positivo enquanto que só 1% das pessoas sem COVID tem um teste positivo. Assuma também que das pessoas que ligam para o Saúde24, 80% das pessoas fizeram o teste A e as restantes fizeram o teste B. Imprima o histograma correspondente aos positivos.
 3. Continua no próximo slide
 
 # Ficha 3
