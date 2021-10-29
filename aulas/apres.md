@@ -149,11 +149,9 @@ Projetos
 5 Nov
  : Short talks: distribuições estatísticas ou métodos de inferência
 
-15 a 27 Nov
+22/11 a 4/12
  : PPLs
 
-29 Nov
- : Short talk: artigo
 
 17 Dez
  : Short talk: artigo
