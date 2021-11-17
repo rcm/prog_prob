@@ -39,8 +39,16 @@ var gerar_obs = function() {
 
 var tabela = gerar_obs()
 
+var count_filter = function(pred, tabela) {
+  sum(map(function(o){o.count}, filter(pred, tabela)))
+}
+
 viz.table(tabela)
+
+count_filter(function(o) {o.covid}, tabela)
 ~~~~
+
+# Estimar os intervalos de maior densidade das margens
 
 ~~~
 var estimate_margin = function(distribution, margin) {
