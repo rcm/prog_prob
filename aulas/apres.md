@@ -118,7 +118,7 @@ Grupo
  : 40% a 60%
 
 ## Individual
-Fichas
+Fichas (avaliadas pelo docente)
  : 50%
 
 PPL
