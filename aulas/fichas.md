@@ -116,13 +116,11 @@ Exploding dice
 	1. Lançou a moeda três vezes ao ar e saiu sempre cara;
 	1. Lançou a moeda três vezes ao ar e saiu cara duas vezes;
 	1. Como mudam as probabilidades das 3 alíneas anteriores caso a probabilidade de escolher a moeda N for de 60%?
+1. Escreva uma função que sabendo que lançou X dados todos com o mesmo número de faces (2, 4, 6, 8, 10, 20 ou 100) e que a soma foi de S, qual é a probabilidade correspondente a cada tipo de dado?
+1. Modifique a solução anterior para o caso de ter uma lista de lançamentos;
 
 # Ficha 5
-4. Escreva uma função que sabendo que lançou X dados todos com o mesmo número de faces (2, 4, 6, 8, 10, 20 ou 100) e que a soma foi de S, qual é a probabilidade correspondente a cada tipo de dado?
-1. Modifique a solução anterior para o caso de ter uma lista de lançamentos;
-1. Escreva uma função que escolha aleatoriamente uma carta de um baralho;
-1. Modifique o programa anterior para extrair várias cartas de um baralho sem reposição;
-1. Crie um programa que permita calcular a probabilidade de cada uma das combinações do Blackjack.
+- Construa um modelo que receba um texto e aprenda qual é a próxima palavra baseada nas *k* palavras anteriores
 
 # Ficha 6 --- Cenários
 ## Passaportes ilegais
