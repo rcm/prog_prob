@@ -1,3 +1,4 @@
+~~~
 var modeloInicial = function() {
   var covid = flip(0.01)
   var A = flip(0.8)
@@ -25,3 +26,4 @@ viz.table(obs)
 var modelo = function() {
   
 }
+~~~
