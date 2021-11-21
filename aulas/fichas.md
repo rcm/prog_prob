@@ -5,6 +5,7 @@ theme: Boadilla
 title: Programação Probabilística
 header-includes:
   - \hypersetup{colorlinks=true,urlcolor = blue, linkcolor=cyan,pdfborderstyle={/S/U/W 1}}
+  - \AtBeginDocument{\renewenvironment{Shaded} {\footnotesize} {}}
 ---
 
 # Instruções
@@ -109,6 +110,45 @@ Exploding dice
 	1. A probabilidade de ter feito o teste A com teste positivo e COVID;
 
 # Ficha 4
+1. Crie uma função ```sondagens(tamanho)``` que  gere sondagens baseada nas probabilidades dadas abaixo
+~~~{.javascript}
+var perc = {"ps":36.34,"psd":27.76,"cdu":6.33,"cds":4.22, "be":9.52,
+  "pan":3.32,"chega":1.29,"il":1.29, "livre":1.09, "indecisos":8.84}
+~~~
+2. Utilizando os resultados da sondagem, crie um modelo para as probabilidades de um eleitor votar em cada partido
+3. Use o ```viz.marginals``` para mostrar o resultado gráficamente
+4. Use o estimador do High Density Interval para estimar o intervalo da probabilidade para cada partido
+
+# Sugestões para a ficha 4
+- Lembre-se que a distribuição multinomial recebe uma lista de probabilidades cuja soma é um
+- Se quiser inspecionar quais são os métodos de um objeto use a função ```Object.getOwnPropertyNames(objeto)```
+- O WebPPL parece utilizar a biblioteca ```Lodash``` que contém muitas funções úteis que pode consultar [aqui](https://lodash.com/docs)
+- Eis algumas funções que podem ser úteis:
+	- ```_.keys```
+	- ```_.values```
+	- ```_.toPairs```
+	- ```_.fromPairs```
+	- ```_.zip```
+	- ```_.unzip```
+
+# Exemplo
+~~~{.javascript}
+var prop = {"ps":36.34,"psd":27.76,"cdu":6.33,"cds":4.22, "be":9.52,
+  "pan":3.32,"chega":1.29,"il":1.29, "livre":1.09, "indecisos":8.84}
+var pares = _.toPairs(prop)
+print(pares)
+var tuplo = _.unzip(pares)
+var partidos = tuplo[0]
+var percentagens = tuplo[1]
+print(partidos)
+print(percentagens)
+var dic = _.fromPairs(_.zip("partidos percentagens".split(" "), tuplo))
+print(dic)
+print(dic.partidos)
+print(dic.percentagens)
+~~~
+
+# Ficha 5
 1. Estime a probabilidade da moeda sair cara se tiver uma lista de observações;
 1. E se tiver uma contagem **caras**/**lançamentos**?
 1. Se tiver 3 moedas, uma normal com 50% de probabilidades de sair cara (N), uma com 70% de probabilidades de sair cara (H)  e outra com 70% de probabilidades de sair coroa (T), e sabendo à partida que pode ter escolhido qualquer dessas moedas, qual é a probabilidade de ter escolhido cada uma das moedas sabendo que:
@@ -119,10 +159,10 @@ Exploding dice
 1. Escreva uma função que sabendo que lançou X dados todos com o mesmo número de faces (2, 4, 6, 8, 10, 20 ou 100) e que a soma foi de S, qual é a probabilidade correspondente a cada tipo de dado?
 1. Modifique a solução anterior para o caso de ter uma lista de lançamentos;
 
-# Ficha 5
+# Ficha 6
 - Construa um modelo que receba um texto e aprenda qual é a próxima palavra baseada nas *k* palavras anteriores
 
-# Ficha 6 --- Cenários
+# Ficha 7 --- Cenários
 ## Passaportes ilegais
 - 1 em cada dez mil passageiros possuem um passaporte ilegal;
 - São identificados corretamente 99 passaportes ilegais em cada 100;
@@ -143,7 +183,7 @@ Exploding dice
 1. Sabendo que um passageiro foi preso, qual é a probabilidade de passaporte ser válido?
 1. No cenário da loucura psicadélica, sabendo que o aluno conhece todo o procedimento e que é acordado num dado dia, se a pergunta que lhe fizerem for “qual é a probabilidade do lançamento da moeda ter dado coroa?” qual deverá ser a sua resposta?
 
-# Ficha 7
+# Ficha 8
 ## Craps
 - Calcule a probabilidade de ganhar se for você a lançar os dados
 - Calcule a probabilidade de ganhar dependendo do valor inicial que saiu nos dados
