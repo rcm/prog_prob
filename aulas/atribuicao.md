@@ -72,19 +72,17 @@ Table: Primeira Short Talk
 # Atribuição das Short talks
 
 -----------------------------------------------------------------
-   Elemento           Elemento                 Tema
----------------   -------------------     -----------------------
-Irving                   Rodrigo           Lumen: A software for the interactive visualization of probabilistic models together with data
+   Elemento                Tema
+-----------------        -----------------------
+Irving e Rodrigo         Lumen: A software for the interactive visualization of probabilistic models together with data
 
-Ricardo                Maria Inês          
+Ricardo e Maria Inês          
 
-Alexandre             João Pedro           
+Alexandre e João Pedro           
 
-Maria João              Tomás              TWILITE: A recommendation system for Twitter using a probabilistic model based on latent Dirichlet allocation
+Maria João e Tomás       TWILITE: A recommendation system for Twitter using a probabilistic model based on latent Dirichlet allocation
 
-Catarina             Pedro Daniel          Applying Probabilistic Programming to Affective Computing
-
-Diogo Manuel        João Gustavo           
+Catarina e Pedro Daniel  Applying Probabilistic Programming to Affective Computing
 
 Márcio Eduardo      
 
