@@ -69,3 +69,26 @@ Márcio Eduardo      José Diogo             Escolham um dos métodos de inferê
 
 Table: Primeira Short Talk
 
+# Atribuição das Short talks
+
+-----------------------------------------------------------------
+   Elemento           Elemento                 Tema
+---------------   -------------------     -----------------------
+Irving                   Rodrigo           Lumen: A software for the interactive visualization of probabilistic models together with data
+
+Ricardo                Maria Inês          
+
+Alexandre             João Pedro           
+
+Maria João              Tomás              TWILITE: A recommendation system for Twitter using a probabilistic model based on latent Dirichlet allocation
+
+Catarina             Pedro Daniel          Applying Probabilistic Programming to Affective Computing
+
+Diogo Manuel        João Gustavo           
+
+Márcio Eduardo      
+
+-----------------------------------------------------------------
+
+Table: Segunda Short Talk
+
