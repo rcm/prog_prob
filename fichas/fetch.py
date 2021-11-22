@@ -7,7 +7,10 @@ pg47622;Rodrigo da Silva Gomes Peres;Coelho https://github.com/Rodrigelho/Probab
 pg47264;Irving Leander Reascos Valencia;https://github.com/LeanderReascos/probabilistic_programming
 pg45927;Catarina Assis Quintela Madaleno;https://github.com/catarinamadaleno/prog_prob/tree/main/Fichas%20Prog%20Prob
 a89135;Pedro Daniel Lopes Mendes;https://github.com/DanieMendes/Prog_Prob
-pg47339;João Pedro Sá Gomes;https://github.com/JoaoPedro9400/Fichas-PP"""
+pg47339;João Pedro Sá Gomes;https://github.com/JoaoPedro9400/Fichas-PP
+pg46949;Alexandre de Jesus Sousa e silva;https://github.com/alexandre04032000/Ficha2
+pg47478;Maria João Barroso Portela;https://github.com/MJoaoPortela/Programa-o-Probabilistica
+a89140;Tomás Esperança Ferreira;https://github.com/TomasAcadem/ProgProb"""
 
 alunos = [linha.split(";") for linha in alunos.splitlines()]
 current = os.getcwd()
