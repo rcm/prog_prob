@@ -1,4 +1,4 @@
-
+~~~
 var random_transition_state = function(transition) {
   return function(S) {
     var linha = transition[S]
@@ -81,3 +81,4 @@ var deduzir = function() {
 
 viz.table(Infer(deduzir))
 
+~~~
