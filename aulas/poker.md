@@ -1,3 +1,4 @@
+~~~
 var values = "23456789TJQKA"
 var suits = "SDCH"
 
@@ -119,3 +120,4 @@ dropWhile(deitar_fora, zip(m1, m2))
 print(m1)
 print(m2)
 zip(m1, m2)
+~~~
